@@ -1,1 +1,5 @@
 adkfjagn
+<<<<<<< HEAD
+=======
+
+>>>>>>> feature/text
